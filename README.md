@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elusistic
+- 👋 Hi, I’m Dipanshu(a.k.a @Elusistic)
 - 👀 I’m interested in website development and website designing
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on web development projects or internships
